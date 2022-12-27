@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Deepak-Bot",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "multi-device",
     "xeon-bot-inc"
   ],
-  "author": "DGXeon",
+  "author": "Deepak",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
